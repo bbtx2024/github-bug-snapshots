@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<SettingOption xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BackUpPath>D:\BackUpConfig\Setting\</BackUpPath>
+  <DllName>Quick</DllName>
+  <Name>.选项</Name>
+  <设备名称_glo>FCM unload</设备名称_glo>
+  <屏蔽安全门_glo>关闭</屏蔽安全门_glo>
+  <启用控制面板按钮_glo>开启</启用控制面板按钮_glo>
+  <自动退出权限时间_glo>5000</自动退出权限时间_glo>
+  <拍照图片保存天数_glo>90</拍照图片保存天数_glo>
+  <安全门屏蔽自动开启时间_glo>500</安全门屏蔽自动开启时间_glo>
+  <空跑模式_glo>关闭</空跑模式_glo>
+  <带料空跑_glo>关闭</带料空跑_glo>
+  <设备流线模式_glo>关闭</设备流线模式_glo>
+  <启用夹爪编号_glo>二号</启用夹爪编号_glo>
+  <主界面换班清空时间_glo>7:40,19:40</主界面换班清空时间_glo>
+  <NG流线跑料测试_glo>关闭</NG流线跑料测试_glo>
+  <扫码枪使用情况_glo>开启</扫码枪使用情况_glo>
+  <启用上游设备信号_glo>开启</启用上游设备信号_glo>
+  <启用下游设备信号_glo>开启</启用下游设备信号_glo>
+  <启用相机定位_glo>开启</启用相机定位_glo>
+  <启用压力判断_glo>关闭</启用压力判断_glo>
+</SettingOption>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<SettingMotion xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BackUpPath>D:\BackUpConfig\Setting\</BackUpPath>
+  <DllName>Quick</DllName>
+  <Name>.运动参数</Name>
+  <str />
+  <X1PoxMin_glo>-1000</X1PoxMin_glo>
+  <X1PoxMax_glo>400</X1PoxMax_glo>
+  <Y1PoxMin_glo>-1000</Y1PoxMin_glo>
+  <Y1PoxMax_glo>600</Y1PoxMax_glo>
+  <ZPoxSafety_glo>-180</ZPoxSafety_glo>
+  <Z1PoxMin_glo>-60</Z1PoxMin_glo>
+  <Z1PoxMax_glo>27</Z1PoxMax_glo>
+  <R1PoxMin_glo>-1000</R1PoxMin_glo>
+  <R1PoxMax_glo>1000</R1PoxMax_glo>
+  <EmptyZOneStep_glo>58</EmptyZOneStep_glo>
+  <EmptyZSmartStep>2</EmptyZSmartStep>
+  <FullZOneStep_glo>21</FullZOneStep_glo>
+  <PressAlarmValue_glo>5</PressAlarmValue_glo>
+  <ZPressRelPos_glo>1</ZPressRelPos_glo>
+  <ZPressOverTime_glo>3</ZPressOverTime_glo>
+  <RobZPickRelpos_glo>3</RobZPickRelpos_glo>
+</SettingMotion>
