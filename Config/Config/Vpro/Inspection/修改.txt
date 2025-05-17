@@ -1,7 +1,0 @@
-0	8	LUpFitCalib	左贴装联合标定	0
-0	9	RUpFitCalib	右贴装联合标定	0
-1	10	LDownPickCalib	左取料联合标定	0
-2	11	RDownPickCalib	右取料联合标定	0
-
-LDown                      LDown                     LUpFit                      RUpFit 
-LDownPickCalib        RDownPickCalib       LUpFitCalib               RUpFitCalib

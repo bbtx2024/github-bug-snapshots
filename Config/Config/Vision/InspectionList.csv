@@ -1,5 +1,0 @@
-CamId,InspectionId,VppName,Describe,TaskId
-0,0,Myr1UpPick,上相机取料,0
-0,1,Myr1UpUnitCalib,上相机关联,0
-1,2,Myr2UpPick,机械手相机放料,4
-1,3,Myr2UpUnitCalib,机械手相机关联,4

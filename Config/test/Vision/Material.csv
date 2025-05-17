@@ -1,5 +1,0 @@
-MaterialId,Name,PLCAddressI,PLCAddressO,UpDo,DownDo,BUse
-11,Myl左吸嘴取料,10,10,130,131,1
-12,Myl左吸嘴放料,10,10,130,131,1
-13,Myl右吸嘴取料,20,20,132,-1,1
-14,Myl右吸嘴放料,20,20,133,-1,1

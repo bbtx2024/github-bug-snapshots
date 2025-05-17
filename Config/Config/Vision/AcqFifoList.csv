@@ -1,5 +1,0 @@
-CamId,AcqFifoId,VppName,Describe,OutId,HardTrigger,TaskId,BUse,DisplayId
-0,0,Myr1UpCalibration,上相机标定,44/45,0,0,1,0
-0,1,Myr1UpFeeder,上相机拍载具,44/45,0,0,1,1
-1,2,Myr2UpCalibration,机械手相机标定,43,0,4,1,2
-1,3,Myr2UpFeeder,机械手相机拍载具,43,0,4,1,3
