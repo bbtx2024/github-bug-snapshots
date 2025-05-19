@@ -67,8 +67,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T13:00:21.482Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -112,9 +111,9 @@
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "C:\\Users\\yaoruibo\\Desktop\\testcode1\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\MainWindowViewModel.cs",
-              "ToolTip": "C:\\Users\\yaoruibo\\Desktop\\testcode1\\ViewModels\\MainWindowViewModel.cs*",
-              "RelativeToolTip": "ViewModels\\MainWindowViewModel.cs*",
-              "ViewState": "AgIAAA8AAAAAZmZmZuY2wEIAAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\yaoruibo\\Desktop\\testcode1\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwCoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T12:52:47.238Z",
               "EditorCaption": ""
